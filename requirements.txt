@@ -1,0 +1,36 @@
+# Core Python Libraries
+numpy==1.24.3
+scipy
+gensim
+tensorflow
+
+# LangChain Components
+langchain
+langchain-community
+langchain-core
+tiktoken
+
+# PDF Processing
+pypdf
+PyPDF2
+
+# Vector Database
+chromadb
+sentence-transformers
+
+# Embedding Models
+accelerate
+transformers
+numba
+thinc
+pytensor
+
+# LLM Inference
+llama-cpp-python==0.2.7
+
+# HuggingFace Hub Download
+huggingface_hub
+
+# Utility Libraries
+uuid
+python-dotenv
